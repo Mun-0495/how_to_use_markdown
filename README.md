@@ -1,3 +1,6 @@
+>	clone from https://gist.github.com/652be052a0727ad59601.git
+>	모든 정보는 여기서 가져왔음을 밝힙니다. 
+
 # how_to_use_markdown
 [공통] 마크다운 markdown 작성법
 ======================
